@@ -85,12 +85,3 @@ This contract handles the state of the Anthology Tree
 
 - Step-by-step instructions for building and running the project.
 
-## **Changelog**
-
-### [Version](#change-log-version)
-
-- Description of changes made in this version.
-
-### [Previous Version](#change-log-previous-version)
-
-- Description of changes made in the previous version.
