@@ -1,10 +1,4 @@
-# **Memoirs**
-
-====================
-
-## **Description**
-
-A brief description of the repository.
+# **Anthology**
 
 ## **Table of Contents**
 
@@ -14,7 +8,7 @@ A brief description of the repository.
    - [v1: Memoir array - Anthology](#v1)
    - [v2: Anthology array - Anthology Tree ](#v2)
    - [v3](#v3)
-3. [**Changelog**](#changelog)
+3. [**Repository cloning**](#repository-cloning)
 
 ## **WTF is this**
 
@@ -77,11 +71,14 @@ This contract handles the state of the Anthology Tree
 
 ### v3:
 
-## Installation
+How v3 can look like?
 
-- Step-by-step instructions for setting up the repository.
+## Repository cloning
 
-### Running the Project
+In order to use gitopia protocol, you need to install git remote helper first [Learn more](https://docs.gitopia.com/git-remote-gitopia/index.html)
 
-- Step-by-step instructions for building and running the project.
+Neither `https://` nor `ssh://` is used, so `gitopia://` needs to be installed.
 
+```
+git clone gitopia://Anthology/anthology-sc
+```
